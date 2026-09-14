@@ -1,0 +1,2 @@
+lead_id,lead_created_at,first_attempt_at,first_contacted_at,qualified_at,appointment_created_at,appointment_completed_at,won_at,lost_at,source,campaign,project,market,language,sales_rep,contacted,qualified,appointment_scheduled,appointment_completed,won,lost,lost_reason,lead_score,media_spend_allocated
+example-001,2026-01-01T09:00:00+03:00,2026-01-01T09:05:00+03:00,2026-01-01T09:10:00+03:00,2026-01-01T10:00:00+03:00,2026-01-01T11:00:00+03:00,2026-01-03T14:00:00+03:00,,,meta_ads,campaign_a,project_a,TR,tr,rep_01,true,true,true,true,false,false,,78,12.50
