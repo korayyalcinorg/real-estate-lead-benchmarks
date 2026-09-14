@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this benchmark framework, please cite it as below."
+title: "Real Estate Lead Benchmarks"
+type: software
+authors:
+  - family-names: "Yalçın"
+    given-names: "Koray"
+url: "https://github.com/korayyalcinorg/real-estate-lead-benchmarks"
+repository-code: "https://github.com/korayyalcinorg/real-estate-lead-benchmarks"
+website: "https://www.korayyalcin.org"
+version: "0.1.0"
+date-released: "2026-09-14"
+keywords:
+  - real estate
+  - lead management
+  - benchmark
+  - speed to lead
+  - CRM
+  - conversion rate
+  - marketing automation
