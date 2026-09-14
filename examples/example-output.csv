@@ -1,0 +1,2 @@
+segment_type,segment_value,total_leads,attempted_leads,contacted_leads,qualified_leads,appointments,completed_appointments,won_leads,median_speed_to_lead_min,p75_speed_to_lead_min,p90_speed_to_lead_min,contact_rate,qualification_rate,appointment_rate_contacted,show_up_rate,lead_to_sale_conversion,contact_to_sale_conversion
+overall,all,12,12,10,8,6,6,3,21.0,112.5,1347.0,0.8333,0.8000,0.6000,1.0000,0.2500,0.3000
