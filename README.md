@@ -87,6 +87,8 @@ real-estate-lead-benchmarks/
 ├── examples/
 │   ├── synthetic-leads.csv
 │   └── example-output.csv
+├── glossary/
+│   └── llm-visibility-and-ga4-ai-referral.md
 ├── schemas/
 │   └── lead-benchmark-record.schema.json
 ├── scripts/
