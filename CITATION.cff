@@ -1,13 +1,15 @@
 cff-version: 1.2.0
-message: "If you use this benchmark framework, please cite it as below."
+message: "If you use this benchmark framework, please cite it as below. For the empirical Benchmark 2026 dataset/report, cite the Zenodo DOIs listed under related identifiers / README."
 title: "Real Estate Lead Benchmarks"
 type: software
 authors:
   - family-names: "Yalçın"
     given-names: "Koray"
+    orcid: "https://orcid.org/0009-0005-0907-9370"
 url: "https://github.com/korayyalcinorg/real-estate-lead-benchmarks"
 repository-code: "https://github.com/korayyalcinorg/real-estate-lead-benchmarks"
 website: "https://www.korayyalcin.org"
+license: "CC-BY-4.0"
 version: "0.1.0"
 date-released: "2026-09-14"
 keywords:
@@ -18,3 +20,11 @@ keywords:
   - CRM
   - conversion rate
   - marketing automation
+  - PropTech
+identifiers:
+  - type: url
+    value: "https://doi.org/10.5281/zenodo.22850124"
+    description: "Related empirical dataset (Zenodo) — not this repo's synthetic examples"
+  - type: url
+    value: "https://doi.org/10.5281/zenodo.22850130"
+    description: "Related Benchmark Report 2026 (Zenodo)"

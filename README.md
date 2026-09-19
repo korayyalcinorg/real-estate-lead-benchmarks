@@ -263,3 +263,18 @@ Website: https://www.korayyalcin.org
 ## Disclaimer
 
 This repository is a measurement framework and research resource. Example values, synthetic datasets and operational targets should not be interpreted as universal market benchmarks. Any empirical benchmark should be evaluated in the context of its sample, geography, period, channel mix and methodology.
+
+---
+
+## Citation and related Zenodo releases
+
+This GitHub repository is the **open measurement framework** (definitions, templates, synthetic examples, calculator). It is **not** the empirical Benchmark 2026 release.
+
+If you use this framework, cite the repository `CITATION.cff` (Koray Yalçın, ORCID [0009-0005-0907-9370](https://orcid.org/0009-0005-0907-9370)).
+
+For the empirical dataset and report, cite the Zenodo DOIs:
+
+- Dataset: https://doi.org/10.5281/zenodo.22850124
+- Report: https://doi.org/10.5281/zenodo.22850130
+
+License: [CC-BY-4.0](LICENSE).
