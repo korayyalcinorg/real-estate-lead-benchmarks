@@ -266,15 +266,22 @@ This repository is a measurement framework and research resource. Example values
 
 ---
 
-## Citation and related Zenodo releases
+## Atıf ve ilgili Zenodo yayınları
 
-This GitHub repository is the **open measurement framework** (definitions, templates, synthetic examples, calculator). It is **not** the empirical Benchmark 2026 release.
+Bu GitHub deposu **açık ölçüm çerçevesidir** (tanımlar, şablonlar, sentetik örnekler, hesaplayıcı). Ampirik Benchmark 2026 yayını değildir.
 
-If you use this framework, cite the repository `CITATION.cff` (Koray Yalçın, ORCID [0009-0005-0907-9370](https://orcid.org/0009-0005-0907-9370)).
+Çerçeveyi kullanıyorsanız depodaki `CITATION.cff` dosyasına göre atıf verin (Koray Yalçın, ORCID [0009-0005-0907-9370](https://orcid.org/0009-0005-0907-9370)).
 
-For the empirical dataset and report, cite the Zenodo DOIs:
+Ampirik rapor ve veri seti için Zenodo DOI’leri:
 
-- Dataset: https://doi.org/10.5281/zenodo.22850124
-- Report: https://doi.org/10.5281/zenodo.22850130
+| Rol | DOI |
+|-----|-----|
+| **Güncel rapor (v1.1)** | https://doi.org/10.5281/zenodo.22864641 |
+| **Kavram (concept) DOI** | https://doi.org/10.5281/zenodo.22850129 |
+| **Önceki rapor (v1.0)** | https://doi.org/10.5281/zenodo.22850130 |
+| **Veri seti** | https://doi.org/10.5281/zenodo.22850124 |
 
-License: [CC-BY-4.0](LICENSE).
+Site (kanonik): https://www.korayyalcin.org/yayinlar-arastirmalar/gayrimenkul-lead-donusum-ve-yanit-suresi-benchmark-2026/
+
+Lisans: [CC-BY-4.0](LICENSE).
+

@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this benchmark framework, please cite it as below. For the empirical Benchmark 2026 dataset/report, cite the Zenodo DOIs listed under related identifiers / README."
+message: "Bu ölçüm çerçevesini kullanıyorsanız aşağıdaki gibi atıf verin. Ampirik Benchmark 2026 rapor/veri seti için Zenodo DOI’lerini (identifiers / README) kullanın."
 title: "Real Estate Lead Benchmarks"
 type: software
 authors:
@@ -8,7 +8,7 @@ authors:
     orcid: "https://orcid.org/0009-0005-0907-9370"
 url: "https://github.com/korayyalcinorg/real-estate-lead-benchmarks"
 repository-code: "https://github.com/korayyalcinorg/real-estate-lead-benchmarks"
-website: "https://www.korayyalcin.org"
+website: "https://www.korayyalcin.org/yayinlar-arastirmalar/gayrimenkul-lead-donusum-ve-yanit-suresi-benchmark-2026/"
 license: "CC-BY-4.0"
 version: "0.1.0"
 date-released: "2026-09-14"
@@ -23,8 +23,14 @@ keywords:
   - PropTech
 identifiers:
   - type: url
-    value: "https://doi.org/10.5281/zenodo.22850124"
-    description: "Related empirical dataset (Zenodo) — not this repo's synthetic examples"
+    value: "https://doi.org/10.5281/zenodo.22864641"
+    description: "Benchmark Raporu 2026 — güncel sürüm DOI (v1.1)"
+  - type: url
+    value: "https://doi.org/10.5281/zenodo.22850129"
+    description: "Benchmark Raporu 2026 — kavram (concept) DOI; tüm sürümleri kapsar"
   - type: url
     value: "https://doi.org/10.5281/zenodo.22850130"
-    description: "Related Benchmark Report 2026 (Zenodo)"
+    description: "Benchmark Raporu 2026 — önceki sürüm DOI (v1.0 stub)"
+  - type: url
+    value: "https://doi.org/10.5281/zenodo.22850124"
+    description: "İlgili ampirik veri seti (Zenodo) — bu repodaki sentetik örnekler değildir"
